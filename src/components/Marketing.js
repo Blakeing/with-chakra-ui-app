@@ -8,7 +8,7 @@ export const Marketing = () => {
         <Image
           rounded="lg"
           width={{ md: 40 }}
-          src="https://bit.ly/2jYM25F"
+          src="/plane.jpg"
           alt="Woman paying for a purchase"
         />
       </Box>
